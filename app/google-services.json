@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466577141041",
+    "project_id": "home-9e5ee",
+    "storage_bucket": "home-9e5ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466577141041:android:ec4b79c063a103092d1410",
+        "android_client_info": {
+          "package_name": "com.example.homeactivity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPhwciGm79OZSD-aKB3jldzF30ZWR8tQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
